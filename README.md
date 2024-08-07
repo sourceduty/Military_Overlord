@@ -1,6 +1,6 @@
 ![Military Overlord](https://github.com/user-attachments/assets/25c4f340-90ef-4ea6-9674-fb03f98a8a73)
 
-> Military and public security investigation specialist. The god of shitstorms.
+> Military and public security investigation specialist. The god of war.
 
 #
 
