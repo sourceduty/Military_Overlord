@@ -1,4 +1,4 @@
-![Military Overlord](https://github.com/user-attachments/assets/dc7feec2-03d0-42b9-9b50-bc5132050ae9)
+![Military Overlord](https://github.com/user-attachments/assets/25c4f340-90ef-4ea6-9674-fb03f98a8a73)
 
 > Military and public security investigation specialist. The god of shitstorms.
 
