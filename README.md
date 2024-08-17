@@ -16,6 +16,8 @@ Furthermore, Military Overlord emphasizes a methodical approach, often guiding u
 [ChatGPT]()
 <br>
 [Security Simulator](https://chatgpt.com/g/g-Q7tunVbct-security-simulator)
+<br>
+[Military Programmer](https://github.com/sourceduty/Military_Programmer)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
