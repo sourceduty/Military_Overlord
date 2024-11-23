@@ -13,7 +13,7 @@ Furthermore, Military Overlord emphasizes a methodical approach, often guiding u
 #
 ### Related Links
 
-[ChatGPT]()
+[ChatGPT](https://github.com/sourceduty/ChatGPT)
 <br>
 [Security Simulator](https://chatgpt.com/g/g-Q7tunVbct-security-simulator)
 <br>
