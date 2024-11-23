@@ -20,11 +20,12 @@ The hierarchical overreaching abstraction levels in the custom GPT for "Military
 Beneath the strategic layer is the Operational Analysis Layer, which focuses on implementing high-level strategies through concrete recommendations and analyses. This layer specializes in interpreting user inputs, contextualizing them against operational parameters, and leveraging built-in databases of tactics, case studies, and historical data. Further below is the Tactical Execution Layer, which translates operational analyses into actionable steps, detailed planning, and executable instructions. Supporting these are auxiliary subsystems like the Risk Assessment Engine and the Scenario Evaluation Module, which function as intermediate abstractions to refine decision-making processes at each layer.
 
 ```
-- Strategic Command Layer
-- Operational Analysis Layer
-- Risk Assessment Engine
-- Scenario Evaluation Module
-- Tactical Execution Layer
+6. Military Overlord
+5. Strategic Command Layer
+4. Operational Analysis Layer
+3. Risk Assessment Engine
+2. Scenario Evaluation Module
+1. Tactical Execution Layer
 ```
 
 #
