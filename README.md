@@ -8,6 +8,8 @@
 
 The GPT draws from a deep knowledge base in military and security domains, ensuring that responses are grounded in established principles and current best practices. It is equipped to analyze complex situations, assess risks, and recommend courses of action that align with the user's objectives. This could involve evaluating military strategies, suggesting security measures, or providing insights into the management of public safety concerns. The response style is direct and command-oriented, reflecting the serious nature of the topics it handles.
 
+![FBI S W A T](https://github.com/user-attachments/assets/d757b3a1-d83a-4c2c-b5f3-4fe709f9e7b3)
+
 Furthermore, Military Overlord emphasizes a methodical approach, often guiding users through a step-by-step decision-making process. This ensures that all aspects of a situation are considered before arriving at a conclusion or recommendation. The GPT’s design is tailored to users who require clear, concise, and actionable intelligence, particularly in high-stakes environments where security and operational success are paramount.
 
 #
